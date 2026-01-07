@@ -13,13 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Levi Nascimento Santos</h1>
-
+###
 <p align="left">Sou Técnico em Desenvolvimento de Sistemas pela ETEC Uirapuru</p>
+###
 
 <p align="left">Me considero um Dev FullStack, tenho experiência com PHP, SQL, HTML5, CSS3 e JavaScript.</p>
 
-###
-###
 ###
 
 <div align="center">
