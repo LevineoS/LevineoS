@@ -44,7 +44,9 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
+<h2 align="left">Me contate:</h2>
+
+<div align="left">
   <a href="https://www.linkedin.com/in/levi-santos-23347525b/" target="_blank">
     <img 
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
