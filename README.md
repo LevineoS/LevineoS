@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <p align="left">Sou Técnico em Desenvolvimento de Sistemas pela ETEC Uirapuru</p>
 
-<h3 align="left">Sobre</h3>
+<h3 align="left">Sobre Mim</h3>
 
 <p align="left">Me considero um Dev FullStack, tenho experiência com PHP, SQL, HTML5, CSS3 e JavaScript.</p>
 
