@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 <h2 align="left">Sobre Mim</h2>
 
-
 <p align="left">Me considero um Dev FullStack, tenho experiência com PHP, SQL, HTML5, CSS3 e JavaScript.</p>
 
 ###
