@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="left">Levi Nascimento Santos</h1>
 
+<p align="left">Sou Técnico em Desenvolvimento de Sistemas pela ETEC Uirapuru</p>
+
+###
 ###
 
 <div align="center">
