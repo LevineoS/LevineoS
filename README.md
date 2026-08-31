@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Criando Bugs desde 2024 <br> 📚 Continuo apreendendo mais sobre PHP e mySQL <br> 🎯 Objetivos: Ingressar na área de desenvolvimento e continuar aprendendo sobre programação.</p>
+<p align="left">✨ Criando Bugs desde 2024 <br> 📚 Continuo aprendendo mais sobre PHP e mySQL <br> 🎯 Objetivos: Ingressar na área de desenvolvimento e continuar aprendendo sobre programação.</p>
 
 ###
 
